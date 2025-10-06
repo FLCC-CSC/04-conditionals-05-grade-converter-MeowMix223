@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Emma Edwards
+# DATE: 10/5/25
+# BRIEF DESCRIPTION:  grade converter
 
 
 
@@ -85,7 +85,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+be careful with the differences of the if commands
 
 
 
